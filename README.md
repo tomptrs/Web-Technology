@@ -36,7 +36,7 @@ Probeer te beschrijven wat het verschil is tussen het bestand rechtstreeks te op
 ## Oefening
 
 
-Kopieer onderstaande code tussen je <body>-tags:
+Kopieer onderstaande code tussen je body-tags:
 <h1> </h1>
 	
 	<img src=""/>
@@ -50,7 +50,33 @@ En vul verder aan zodat je je eigen homepage gemaakt heb die er ongeveer zo uit 
 ![Aptana Studio file name](/images/voorbeeld.PNG)
 
 
+Probeer te beschrijven wat tags zijn
+
+
+
+
+
+
+
+
 
 ## HTML Debugging
+
+Zowel in Chrome als IExplorer kan je met de toets F12 een debugger window openen. Debugging is het zoeken naar fouten, en deze tools kunnen je hierbij helpen
+
+### Oefening
+
+Maak een nieuw HTML bestand aan en kopieer onderstaande code tussen je body-tags:
+
+		<button onclick="SetBackGround('red')">Rode achtergrond</button>
+		<button onclick="SetBackGround('yellow')">Gele achtergrond</button>
+		<button onclick="SetBackGround('blue')">Blauwe achtergrond</button>
+
+Bewaar je bestand en open het met je browser. Tracht je debugging tools te openen en te achterhalen waarom
+bovenstaande code niet werkt.
+
+
+
+
 
 
