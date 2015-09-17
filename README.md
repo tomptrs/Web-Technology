@@ -45,7 +45,7 @@ Kopieer onderstaande code tussen je body-tags:
 	
 	</p>
 	
-En vul verder aan zodat je je eigen homepage gemaakt heb die er ongeveer zo uit ziet (bij de beschrijving schrijf je waarom je voor Elektronica-ICT hebt gekozen):
+En vul verder aan zodat je je eigen homepage gemaakt heb die er ongeveer zo uit ziet (bij de beschrijving schrijf je waarom je voor Elektronica-ICT hebt gekozen, wat je verwachtingen zijn, welke IT skills je momenteel bezit,...):
 
 Als je klaar bent, upload je bestand met volgende link: http://tompeeters.cloudapp.net/Web-Technology/Upload.html
 
