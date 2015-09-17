@@ -19,3 +19,38 @@ Ga naar: http://www.aptana.com
 ![Aptana Studio Project](/images/Project.PNG)
 ![Aptana Studio file](/images/file.PNG)
 ![Aptana Studio file name](/images/FileName.PNG)
+
+## Installeer je lokale web server (xampp)
+
+https://www.apachefriends.org/index.html
+
+1. Start je XAMPP Controle Panel en start Apache (dit is je lokale web server)
+2. Zoek de folder waar je xampp hebt geinstalleerd en zoek naar de htdocs folder. Kopieer daar je eigen html bestand in.
+3. Open de browser en ga naar http://localhost/tom.html (indien je de naam tom.html hebt gekozen)
+
+![xampp](/images/Apache.PNG)
+
+Probeer te beschrijven wat het verschil is tussen het bestand rechtstreeks te openen met je browser, en je bestand openen via http://localhost/tom.html
+
+
+## Oefening
+
+
+Kopieer onderstaande code tussen je <body>-tags:
+<h1> </h1>
+	
+	<img src=""/>
+	
+	<p>
+	
+	</p>
+	
+En vul verder aan zodat je je eigen homepage gemaakt heb die er ongeveer zo uit ziet:
+
+![Aptana Studio file name](/images/voorbeeld.PNG)
+
+
+
+## HTML Debugging
+
+
