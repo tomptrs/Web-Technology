@@ -11,4 +11,4 @@ Ga naar: http://www.aptana.com
 4. Kies een project naam en klik op "Finish"
 ![Aptana Studio](/images/aptana.PNG)
 ![Aptana Studio Template](/images/Template.PNG)
-![Aptana Studio Location](/images/projectLocation.PNG)
+![Aptana Studio Location](/images/ProjectLocation.PNG)
