@@ -45,7 +45,7 @@ Kopieer onderstaande code tussen je body-tags:
 	
 	</p>
 	
-En vul verder aan zodat je je eigen homepage gemaakt heb die er ongeveer zo uit ziet:
+En vul verder aan zodat je je eigen homepage gemaakt heb die er ongeveer zo uit ziet (bij de beschrijving schrijf je waarom je voor Elektronica-ICT hebt gekozen):
 
 ![Aptana Studio file name](/images/voorbeeld.PNG)
 
