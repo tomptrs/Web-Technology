@@ -47,6 +47,8 @@ Kopieer onderstaande code tussen je body-tags:
 	
 En vul verder aan zodat je je eigen homepage gemaakt heb die er ongeveer zo uit ziet (bij de beschrijving schrijf je waarom je voor Elektronica-ICT hebt gekozen):
 
+Upload je bestand met volgende link: http://tompeeters.cloudapp.net/Web-Technology/Upload.html
+
 ![Aptana Studio file name](/images/voorbeeld.PNG)
 
 
