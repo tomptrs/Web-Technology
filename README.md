@@ -35,6 +35,12 @@ Probeer te beschrijven wat het verschil is tussen het bestand rechtstreeks te op
 
 ## Oefening
 
+Registreer je op https://balsamiq.com/ voor 30 dagen, en teken een wireframe van de oefening.
+Leg uit wat wireframing is:
+
+
+
+
 
 Kopieer onderstaande code tussen je body-tags:
 <h1> </h1>
