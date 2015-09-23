@@ -74,6 +74,25 @@
 </html>
 
 ```
+## Oefening
+
+Maak na:
+![oef 2](oef3.PNG)
+
+
+## Oefening
+
+Maak na:
+![oef 4](oef4.PNG)
+
+
+## oefening
+
+In deze oefening je je kennis over tekst, kleur, lijsten, hyperlinks  in HTML moeten aanspreken.  
+Probeer gewoon onderstaande tekst zo goed mogelijk na te bouwen: met de lijst, de kleuren, hyperlinks,...
+
+![oef 2](oef2.PNG)
+
 
 ## a kid's page challenge
 
