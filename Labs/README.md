@@ -1,5 +1,4 @@
-# Web-Technology - Labo 2
-
+# Web-Technology - Labo2
 ## Verbeter onderstaande web pagina
 ```html
 <! >
