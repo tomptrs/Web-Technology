@@ -6,16 +6,16 @@ Maak een homepage over een product naar keuze.
 
 ## Wireframing
 
-Wanneer je idee, keuze produkt klaar is, kan je een mockup maken van je website. De tool die je
-hiervoor kan gebruiken is balsamiq.
+Wanneer je een keuze van een produkt gemaakt hebt, kan je van je idee een mockup maken. De tool die je
+hiervoor gebruikt is balsamiq.
 
 Tutorials over Balsamiq:
 http://support.balsamiq.com/customer/en/portal/articles/1335124-tutorials-and-videos
 
 ## DOM
 
-Op basis van je mockup stel je de DOM tree op. Maak een aparte pagina aan waar je je 
-DOM tree include. (scan of trek er een foto van alvorens in je website te embedden)
+Op basis van je mockup stel je de DOM tree op. 
+(Maak een aparte pagina aan waar je je DOM tree include.)
 
 ## Structuur
 
@@ -33,4 +33,4 @@ webpagina wat jij anders doet en waarom.
 - Call to action: als je een bezoeker van je website iets wil laten doen (iets kopen, registeren,..)
 , zorg er dan voor dat je deze 'call to action' regelmatig herhaalt, en zichtbaar maakt.
 
-
+Dit labo wordt op vrijdag 16 oktober via blackboard doorgestuurd (zip file van je bestanden: voornaam.naam.zip)
