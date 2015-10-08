@@ -6,7 +6,7 @@
 Pas de waarden border, margin en padding aan. Gebruik pseudo klassen om de
 kleuren te inverteren wanneer je over het element beweeegt met je muispijl.
 
-![oef1](/images/oef1.PNG)
+![oef1](images/oef1.PNG)
 
 2. Maak na:
 
