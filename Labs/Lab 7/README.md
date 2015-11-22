@@ -253,5 +253,5 @@ met floats!
 
 "Naar onder scrollen levert dit resultaat op:
 
-![oef3](/oef3b.PNG)
+![oef3](oef3b.PNG)
 
