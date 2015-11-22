@@ -209,13 +209,13 @@ De HTML code
 ```
 
 Eindresultaat:
-![oef1](/bambi.PNG)
+![oef1](bambi.PNG)
 
 ## Oefening 2
 
 Werk met de positioning parameters om tot dit abstract resultaat te komen:
 
-![oef2](/oef2.PNG)
+![oef2](oef2.PNG)
 
 ## Oefening 3
 
@@ -249,7 +249,7 @@ met floats!
 
 ```
 
-![oef3](/oef3.PNG)
+![oef3](oef3.PNG)
 
 "Naar onder scrollen levert dit resultaat op:
 
