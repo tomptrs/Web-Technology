@@ -1,4 +1,4 @@
-# Web-Technology - Labo 3
+# Web-Technology - Labo 6
 
 ## Hairequipe.be: needs a new website
 
@@ -7,7 +7,7 @@
 
 ## Taken
 * Je maakt op je computer een folder voor dit vak
-* In die folder maak je een subfolder: hairequie
+* In die folder maak je een subfolder: hairequipe
 * We werken de ganse les in deze subfolder
 * Maak een HTML-pagina en je noemt ze default.html
 * Je maakt eerst een correcte skeletversie aan voor je html bestand
