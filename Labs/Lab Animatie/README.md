@@ -4,21 +4,21 @@
 
 Maak een header aan die er als volgt uit ziet:
 
-![header](header.PNG)
+![header](/header.PNG)
 
 
 De h1 tag heeft kleurcode: color:#0cb5db;
-De div met klasse ìopeningî heeft kleurcode: background: #a9a8a8; , en een width en height van 200px met bijhorende border-radius.
+De div met klasse ‚Äúopening‚Äù heeft kleurcode: background: #a9a8a8; , en een width en height van 200px met bijhorende border-radius.
 Vervolgens schrijf je een animatie zodat het koffiekopje oneindig doorheen de andere afbeelding schuift (de afbeelding start met 5s delay, en duurt 10 seconden.
 
-![header Finished](headerFinish.PNG)
+![header Finished](/headerFinish.PNG)
 
 
 ### Deel 2: Navigatie
 
 Schrijf CSS en HTML code voor onderstaande navigatie:
 
-![navigatie](navigatie.PNG)
+![navigatie](/navigatie.PNG)
 
 Voeg achter de navigatie HTML code volgende snippet toe:
 <section class="vs">
@@ -31,7 +31,7 @@ Nu schrijf je een animatie zodat deze .vs div van boven naar beneden (=plaats wa
 Tip: naar boven is een negatieve Y-waarde (translateY)
 
 
-![navigatie_finished](navigatie_finished.PNG) 
+![navigatie_finished](/navigatie_finished.PNG) 
 
 ### Deel 3: animatie advanced
 
