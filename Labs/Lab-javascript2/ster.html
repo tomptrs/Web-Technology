@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+   
+   <!-- 
+   De gebruiker geeft een getal in tussen 1 en 10 (via prompt). Het programma plaatst op de eerste regel 1
+sterretje, op de tweede regel 2 sterretjes,... Het aantal regels wordt aangegeven door het getal dat de gebruiker
+heeft opgegeven. Indien de gebruiker een getal ingeeft kleiner dan 1 of groter dan 10 krijgt hij een
+foutboodschap
+   -->
+   <script>
+    
+  /*     var aantal = parseInt(prompt("aantal sterren"));
+       
+       
+       for(var i=0; i<aantal;i++){
+           
+           for(var j = 0 ;j<=i;j++ ){
+               document.write("*");
+           }
+           document.write("<br>");
+       }
+       */
+       
+       var woord = "brussel";
+       
+       for(var i=0;i<woord.length;i++){
+           
+           for(var j=0; j<woord.length-i;j++)
+               document.write(woord.charAt(j));
+           
+           document.write("<br>");
+       }
+       
+       
+       
+       
+    </script>
+    
+</body>
+</html>

@@ -1,13 +1,18 @@
 # Web-Technology - Labo 1
 
-## Installeer Aptana Studio 
-Ga naar: http://www.aptana.com
+## Installeer Brackets 
+Ga naar: http://www.brackets.io
 
 ## Je eerste website
 
-1. Open Aptana Studio
-2. File > New Web Project
-3. Next
+1. Open Brackets
+2. Enkel de eerste keer doen:
+2.1 Open extensiebeheer
+![Extensie beheer](/images/extensiebeheer.PNG)
+2.2 Zoek naar "Brackets Insert Hint On Tab" > installeer
+2.3 HTML5 templates > installeer
+3. Bestand > Open Map
+4. Rechtermuisknop > Nieuw Bestand > hernoem je bestand naar ???.html (??? = naam van je bestand) (de extensie .html is belangrijk)
 4. Kies een project naam en klik op "Finish"
 5. Aan de linkerkant verschijnt je web project > Rechtermuisklik "New From Template" > "HTML" > XHTML 5 Template
 6. Geef je bestand een naam, maar vergeet de extensie .html niet!
@@ -35,7 +40,7 @@ Probeer te beschrijven wat het verschil is tussen het bestand rechtstreeks te op
 
 ## Oefening
 
-Registreer je op https://balsamiq.com/ voor 30 dagen, en teken een wireframe van de oefening.
+Registreer je op https://balsamiq.com/ voor 30 dagen, en teken een wireframe van de oefening (te vinden in de slides).
 Leg uit wat wireframing is:
 
 
@@ -70,7 +75,7 @@ Probeer te beschrijven wat tags zijn
 
 ## HTML Debugging
 
-Zowel in Chrome als IExplorer kan je met de toets F12 een debugger window openen. Debugging is het zoeken naar fouten, en deze tools kunnen je hierbij helpen
+Zowel in Chrome als IExplorer kan je met de toets F12 een debugger window openen. Debugging is het zoeken naar fouten, en deze tools kunnen je hierbij helpen. (Firefox gebruikers installeren firebug)
 
 ### Oefening
 

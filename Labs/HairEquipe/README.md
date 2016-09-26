@@ -26,7 +26,7 @@ respectievelijk de services en salons over die je onderaan de hairequipe site te
 (gebruik een # in de href attribuut).
 
 * En dan: stylen naar hartelust!
-* Zorg voor een "css-reset" 
+ 
 * Kies een font bij http://google.com/fonts en link deze aan je html pagina
 * Zorg dat de ganse pagina deze font gebruikt
 * Speel met het box-model: gebruik de padding, border en margin om tot een 
@@ -34,7 +34,7 @@ mooi eindresultaat te komen.
 * Geef kleur en stijl aan je pagina zoals een kapsalon het zou willen!
 
 Be Inspired! :-)
-![inspired](inspired.PNG)
+
 
 
 
