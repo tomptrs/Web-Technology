@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+   
+   <h1>My favorite things</h1>
+<ol>
+      <li>
+            <p><a href="#">Raindrops on roses</a> and <a href="#">whiskers on kittens</a></p>
+            <img src="https://bernadettestoday.files.wordpress.com/2010/09/093010-raindropsonroses.jpg" alt="Raindrops on roses" width="200">
+            <img src="http://www.pxleyes.com/images/contests/favorite%20things/fullsize/favorite%20things_29362_hires.jpg" alt="Whiskers on kittens" width="200">
+      </li>
+      <li>
+            <p><a href="#">Bright copper kettles</a> and <a href="#">warm woollen mittens</a></p>
+            <img src="https://canadiangiftguide.files.wordpress.com/2013/02/simplex-bright-copper-kettles.png" alt="Bright copper kettles" width="200">
+            <img src="http://www.kissmyitchgoodbye.com/wp-content/uploads/2014/12/Warm-woolen-mittens.jpg" alt="Warm woollen mittens" width="200">
+      </li>
+      <li>
+            <p><a href="#">Brown paper packages tied up with strings</a></p>
+            <img src="https://laurenmichelepoetry.files.wordpress.com/2013/11/3043474304_3bd3ce0abb.jpg" alt="Brown paper packages tied up with strings" width="200">
+      </li>
+      <li>
+            <p><a href="#">Cream colored ponies</a> and <a href="#">crisp apple strudels</a></p>
+            <img src="http://www.twilfire.net/images/ponies.jpg" alt="Cream colored ponies" width="200">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Strudel.jpg" alt="crisp apple strudels" width="225">
+      </li>
+      <li>
+            <p><a href="#">Doorbells</a> and <a href="#">sleigh bells</a> and <a href="#">schnitzel with noodles</a></p>
+            <img src="https://media.restorationhardware.com/is/image/rhis/prod4040014_HW07?$l-pd1$" alt="Doorbells" width="200">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/41YWNckp-6L.jpg" alt="sleigh bells" width="200">
+            <img src="http://marthabrettschneider.com/wp-content/uploads/2014/03/schnitzel-with-noodles.jpg" alt="schnitzel with noodles" width="200">
+            
+      </li>
+      <li>
+            <p><a href="#">Wild geese that fly with the moon on their wings</a></p>
+            <img src="https://c2.staticflickr.com/4/3017/3036428430_200027ab02_z.jpg?zz=1" alt="Wild geese that fly with the moon on their wings" width="200">
+            
+      </li>
+      <li>
+            <p><a href="#">Girls in white dresses with blue satin sashes</a></p>
+            <img src="https://c1.staticflickr.com/7/6139/6009253076_4a67b4e47c_b.jpg" alt="Girls in white dresses with blue satin sashes" width="200">
+      </li>
+      <li>
+            <p><a href="#">Snowflakes that stay on my nose and eyelashes</a></p>
+            <img src="https://s-media-cache-ak0.pinimg.com/236x/48/36/b5/4836b5cefc2eab47e820cfb2ea5c25e9.jpg" alt="Snowflakes that stay on my nose and eyelashes" width="200">
+      </li>
+</ol>
+<p>These are a few of my favorite things.</p>
+    
+</body>
+</html>

@@ -8,12 +8,12 @@
 ## Taken
 * Je maakt op je computer een folder voor dit vak
 * In die folder maak je een subfolder: hairequipe
-* We werken de ganse les in deze subfolder
+* Je werkt voor dit project steeds in deze subfolder
 * Maak een HTML-pagina en je noemt ze default.html
 * Je maakt eerst een correcte skeletversie aan voor je html bestand
 * In de head sectie maak je een link naar een extern css-bestand, style.css
 
-* We gaan werken met 3 containers: een header ```html<header>```, main (```html<div class="main">```
+* We gaan werken met 3 containers: een header ```html<header>```, main (```html<main>```
 en een footer (```html<footer>```)
 * In de header: de naam als h1 en een navigatiebalk (<nav> met <a> tags, gebruik
 voorlopig het # href attribuut
@@ -32,7 +32,9 @@ respectievelijk de services en salons over die je onderaan de hairequipe site te
 * Speel met het box-model: gebruik de padding, border en margin om tot een 
 mooi eindresultaat te komen.
 * Geef kleur en stijl aan je pagina zoals een kapsalon het zou willen!
-
+* Of je stijlt zelf, of je probeert de bestaande site na te bouwen
+* De structuur van de site blijft dezelfde (3kolom,...)
+* Denk ook aan CSS Reset!
 Be Inspired! :-)
 
 
