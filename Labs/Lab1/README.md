@@ -8,7 +8,7 @@ https://www.apachefriends.org/index.html
 2. Zoek de folder waar je xampp hebt geinstalleerd en zoek naar de htdocs folder.
 3. Maak een html bestand met tekst in en bewaar in de htdocs folder. 
 3. Open de browser en ga naar http://localhost/tom.html (indien je de naam tom.html hebt gekozen)
-
+4. Beschrijf wat je net gesimuleerd hebt.
 
 ## Oefening
 
@@ -37,6 +37,9 @@ Zowel in Chrome als IExplorer kan je met de toets F12 een debugger window openen
 ![oef 2](oef3.PNG)
 
 
+## DOM structuur
 
+Ga naar een website naar keuze en maak de boomstructuur. Zet daarna de boomstructuur om in code.
+(Kan je niet direct een site vinden, maak vb. gebruik van http://hairequipe.be/ )
 
 
