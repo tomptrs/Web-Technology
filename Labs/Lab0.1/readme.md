@@ -72,6 +72,20 @@ of
  https://blog.capterra.com/free-and-open-source-wireframe-tools/
 of
   https://blog.capterra.com/how-to-create-wireframes/
+  
+Hou rekening met:
 
+- Lay-out - Worden elementen op een duidelijke, visueel aantrekkelijke manier geplaatst?
+- Bruikbaarheid - Is de applicatie gemakkelijk te navigeren en te begrijpen? Hoe zou het gebruikersvriendelijker kunnen zijn
+- Concept - Is er een consistent thematisch concept voor de applicatie? 
+- Publiek - Is dit een geschikte toepassing voor de beoogde doelgroep?
+- Functionaliteit - Bevat de app alle benodigde functionaliteit? Zijn de doelen realistisch?
+- Responsiviteit - Gaat de app soepel over van desktop naar mobiel?
 
-
+Het inleveren van deze opdracht bevat een document met
+het idee:
+- wat is het concept
+- wat is het doel van de applicatie?
+- Waarom is je webapplicatie beter dan de concurrent? (wie zijn de concurrenten?)
+- welke stappen moet je ondernemen om een zekere taak uit te voeren?
+- screenshots van je wireframes
