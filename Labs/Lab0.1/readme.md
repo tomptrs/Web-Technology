@@ -22,34 +22,56 @@ Bekijk volgende cheat sheet:
 
 # Opdracht
 
-Brainstorm over een product, idee, tool,... dat je graag op het web wil brengen. Vooraleer je aan de
-ontwikkeling van een website begint dien je eerst goed na te denken.
-Maak een document met volgende inhoud:
-1. Korte beschrijving product/idee (max. 30 lijnen)
-2. Beschrijving Personas
-3. Pull Quote & image
-4. Demographics
-5. Goals & Tasks
-6. Environent
-7. Concerns
-8. Werk 2 features uit en wireframe deze ideeën
-(zie slides learning.ap.be)
+Deel 1:
+Brainstorm over een product, idee, tool,... dat je graag op het web wil brengen.
+Je mag voor deze opdracht een webapplicatie naar keuze ontwerpen - kies iets waar je enthousiast over bent. 
+Vooraleer je aan de ontwikkeling van een website begint dien je eerst goed na te denken:
 
-Wireframing
+- Voor wie is deze app?
+- Wat is het doel van de app?
+- Wat maakt de app beter dan andere? (indien aanwezig?)
+- Hoeveel pagina's bevat uw app? 
+- Welke functies ga je opnemen in je ontwerp?
+
+Als je problemen hebt bij het bedenken van een concept voor je webtoepassing, hier twee ideetjes:
+
+- groeps plannings tool
+
+- website voor het lezen van nieuws
+(zal dit worden gebruikt door een druk persoon of iemand die gewoon vermaakt wil worden?
+is de app specifiek voor een bepaald onderwerp of voor de interesses van alle gebruikers? )
+
+Deel 2: Wireframing
+
+Wireframes zijn low-fidelity en tonen alleen het  skelet-ontwerp van een applicatie. Het doel van een wireframe is om de algemene layout, functionaliteit en navigatie van uw applicatie te tonen voor de eventuele visuele of esthetische details zoals kleur, lettertypen en afbeeldingen. 
+
+Het doel van wireframing is om gemakkelijk en goedkoop de layout en functionaliteit te doorlopen. Je kunt het aan potentiële gebruikers laten zien en om feedback vragen. 
+Wireframes gebruiken meestal plaatsaanduidingssymbolen om inhoud weer te geven - lijnen worden gebruikt om tekst weer te geven en "X" -vierkantjes geven plaatsaanduidingen voor afbeeldingen aan. Enkele belangrijke kenmerken van wireframes zijn:
+
+- ze tonen de belangrijkste stukken inhoud
+- ze tekenen de omtrek en de lay-outstructuur
+- ze geven de meest elementaire gebruikersinterface weer
+
+
+Voor deze opdracht moet u twee wireframes maken (1 wireframe bevat zowel de desktop als mobiele versie). Elke wireframe moet alle belangrijke data in zowel desktopweergave als mobiele weergave bevatten. Uw wireframes moeten alle functionaliteit en belangrijke navigatie bevatten.  
+Probeer verschillende lay-outs om te zien hoe dat de functionaliteit kan beïnvloeden (dus minstens 2!).
+
+Je wireframes kunnen met de hand getekend zijn of met een tool. Als ze met de hand zijn getekend, scan ze dan en zorg ervoor dat ze netjes en leesbaar zijn.
+
+Voorbeelden van tools voor wireframing die je kan gebruiken:
+
+Balsamiq (30 dagen gratis proberen)
+Photoshop / Illustrator / Adobe XD
 
 Download een wireframing tool, en teken mockups hoe je persoonlijke website er zou uitzien.
-Info over wireframing tools:
- https://blog.capterra.com/free-and-open-source-wireframe-tools/
 
-Info over wireframing:
+Meer uitleg over wireframing:
+
+https://www.uxpin.com/studio/ui-design/what-is-a-wireframe-designing-your-ux-backbone/
+of
+ https://blog.capterra.com/free-and-open-source-wireframe-tools/
+of
   https://blog.capterra.com/how-to-create-wireframes/
 
 
-### Handige links over web design
-- [ https://www.smashingmagazine.com/category/design/ ]
-- [ http://www.creativebloq.com/net-magazine ]
-- [ http://www.thinkingwithtype.com/ ]
-- [
-https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-c
-olor/ ]
-- [ https://www.smashingmagazine.com/2016/04/web-developer-guide-color/ ]
+
