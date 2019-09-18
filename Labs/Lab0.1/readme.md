@@ -53,8 +53,8 @@ Wireframes gebruiken meestal plaatsaanduidingssymbolen om inhoud weer te geven -
 - ze geven de meest elementaire gebruikersinterface weer
 
 
-Voor deze opdracht moet u twee wireframes maken (1 wireframe bevat zowel de desktop als mobiele versie). Elke wireframe moet alle belangrijke data in zowel desktopweergave als mobiele weergave bevatten. Uw wireframes moeten alle functionaliteit en belangrijke navigatie bevatten.  
-Probeer verschillende lay-outs om te zien hoe dat de functionaliteit kan beïnvloeden (dus minstens 2!).
+Voor deze opdracht moet u voor zowel een deskop als mobile design 2 wireframes maken (je werkt 2 functionaliteiten uit (dus in totaal 4 wireframes)). Elke wireframe moet alle belangrijke data in zowel desktopweergave als mobiele weergave bevatten. Uw wireframes moeten alle functionaliteit en belangrijke navigatie bevatten.  
+Probeer verschillende lay-outs om te zien hoe dat de functionaliteit kan beïnvloeden.
 
 Je wireframes kunnen met de hand getekend zijn of met een tool. Als ze met de hand zijn getekend, scan ze dan en zorg ervoor dat ze netjes en leesbaar zijn.
 
@@ -86,6 +86,6 @@ Het inleveren van deze opdracht bevat een document met
 het idee:
 - wat is het concept
 - wat is het doel van de applicatie?
-- Waarom is je webapplicatie beter dan de concurrent? (wie zijn de concurrenten?)
-- welke stappen moet je ondernemen om een zekere taak uit te voeren?
+- Waarom is je webapplicatie beter dan de concurrent? (wie zijn de concurrenten + waarom)
+- welke stappen moet je ondernemen om een zekere taak uit te voeren (vb. welke flow van pagina's kom je tegen om je te registreren)
 - screenshots van je wireframes
